@@ -10,7 +10,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<failOnMissingWebXml>false</failOnMissingWebXml>
 		<jsf.version>2.2.8</jsf.version>
-		<spring.version>4.3.3.RELEASE</spring.version>
+		<spring.version>6.0.0</spring.version>
 	</properties>
 	<dependencies>
 		<dependency>
